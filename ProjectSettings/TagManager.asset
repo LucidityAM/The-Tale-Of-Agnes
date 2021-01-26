@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - room
+  - Enemy
+  - Start Room
+  - LD
+  - DR
+  - TD
+  - Treasure
+  - TR BIG
+  - TLR
+  - Rest LR
+  - Boss Room
+  - sword
+  - Enemy Bullet
+  - PlayerBullet
+  - Weapon1
+  - Weapon2
+  - Weapon3
+  - Weapon4
+  - Weapon5
+  - Weapon6
+  - Weapon7
+  - Weapon8
+  - Weapon9
+  - Weapon10
+  - InventoryUI
+  - InfoText
+  - TR
+  - TR2
+  - Enemy1
+  - Enemy2
+  - FDoor1
+  - Spider
+  - StatText
+  - AttackRate
+  - Strength
+  - Speed
+  - Resolve
+  - Range
+  - StatUI
+  - Slime
+  - SpiderS
+  - SlimeS
+  - Bat
+  - BatS
+  - Boss1
+  - Bat1
+  - Slime1
+  - FollowSwordBullet
+  - Weapon11
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - sword
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
